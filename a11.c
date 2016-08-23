@@ -1,1 +1,3 @@
-a
+function f(){
+	console.log("Ala");
+}
